@@ -691,9 +691,4 @@ admin then
 
 -   [从 Promises/A+ 看异步流控制 - Liu Bowen](https://set.sh/post/200215-how-promise-works)
 
-## 赞赏作者
-
-创作不易，你的赞赏和认可，是我更新的最大动力：
-
-![](https://img.smyhvae.com/20220401_1800.jpg)
 

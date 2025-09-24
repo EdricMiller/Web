@@ -436,12 +436,5 @@ console.log(a);
 document.write('admin前端图文教程');
 ```
 
-页面效果：
 
-![20211031_1543](http://img.smyhvae.com/20211031_1543.png)
 
-## 赞赏作者
-
-创作不易，你的赞赏和认可，是我更新的最大动力：
-
-![](https://img.smyhvae.com/20220401_1800.jpg)

@@ -205,8 +205,5 @@ requirejs(['myAlerter'], function (alerter) {
 
 ![](http://img.smyhvae.com/20180411_1740.png)
 
-项目源码：[2018-04-11-RequireJSDemo](https://download.csdn.net/download/smyhvae/10341963)
-
-
 
 
